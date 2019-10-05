@@ -1,9 +1,9 @@
 import React from 'react';
 
-const StreamEdit = () => {
+const Header = () => {
   return (
     <div>
-      StreamEdit
+      Header
     </div>
   )
 }
